@@ -53237,6 +53237,7 @@ H4DD.b57 = function() {
                     "playready-h264hpl31-dash",
                     "playready-h264hpl40-dash",
                     "heaac-2-dash",
+                    "heaac-2hq-dash",
                     "simplesdh",
                     "nflx-cmisc",
                     "BIF240",
