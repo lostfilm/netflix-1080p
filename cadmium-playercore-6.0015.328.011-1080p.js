@@ -53264,7 +53264,7 @@ H4DD.b57 = function() {
                     clientVersion: b.context.platform.version,
                     supportsPreReleasePin: b.config().Bg.Mpb,
                     supportsWatermark: b.config().Bg.Npb,
-                    showAllSubDubTracks: b.config().Bg.zob || b.a6(c.showAllSubDubTracks),
+                    showAllSubDubTracks: true,
                     packageId: a.dj ? Number(a.dj) : void 0,
                     deviceSupportsSecureStop: l,
                     deviceSecurityLevel: p,
